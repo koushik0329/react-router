@@ -75,3 +75,19 @@ a.active{
   background-color: #efefef;
   color:#000; 
 }
+.job-details{
+  padding: 50px 0;
+}
+.job-details p{
+  max-width: 800px;
+  padding: 10px 0;
+}
+.job-details button{
+  background-color: #000;
+  color: #fff;
+  border: 0;
+  outline: 0;
+  padding: 5px 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
